@@ -1,5 +1,5 @@
 # Description
-Ini adalah aplikasi kalkulator berbasis javascript
+This is a javascript based calculator app
 
 # How to use
 - Clone this repository :
